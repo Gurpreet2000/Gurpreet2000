@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gurpreet2000
-- 👀 I’m interested in solving real world problems
+- 👀 I’m interested in solving real life problems
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on full stack or decentralized projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gurpreet-singh-734279b7/)
